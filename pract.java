@@ -1,3 +1,4 @@
+import java.utils.Array;
 /*
 * I do not know what exactly it is that I am doing,
 * but I guess I am just trying to understand Java more.
@@ -9,6 +10,7 @@ public class pract {
   protected static String NAME;
   
   public String returnName() {
-    return this.NAME
+    string[] name_data = {this.NAME};
+    return Array.ToString(name_data);
   }
 }
