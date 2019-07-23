@@ -8,5 +8,6 @@ public class _another_one extends pract {
   }
   public static void main(String[] args) {
     _another_one name_is = new _another_one();
+    name_is.returnName();
   }
 }
