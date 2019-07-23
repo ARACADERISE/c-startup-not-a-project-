@@ -13,6 +13,6 @@ public class pract {
   
   public String returnName() {
     string[] name_data = {this.NAME};
-    return Array.toString(name_data);
+    return this.NAME;
   }
 }
