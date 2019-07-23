@@ -1,4 +1,4 @@
-import java.utils.Array;
+import java.util.Array;
 /*
 * I do not know what exactly it is that I am doing,
 * but I guess I am just trying to understand Java more.
