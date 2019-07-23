@@ -13,6 +13,6 @@ public class pract {
   
   public String returnName() {
     string[] name_data = {this.NAME};
-    return Array.ToString(name_data);
+    return Array.toString(name_data);
   }
 }
