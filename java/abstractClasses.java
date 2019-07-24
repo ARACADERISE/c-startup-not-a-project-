@@ -10,7 +10,5 @@ abstract class abstractClasses {
   public static String name;
   
   // Sub-classes
-  public void aSubClass() {
-    System.out.println("Hello " + this.name);
-  }
+  public void aSubClass();
 }
