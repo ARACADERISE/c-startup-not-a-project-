@@ -17,15 +17,18 @@ public class switch {
             System.out.println(aNum);
             aNum+=4;
           }
-          break
+          break;
         default:
           System.out.println("It's " + aNum);
           while(aNum < 150) {
             System.out.println(aNum);
             aNum+=8;
           }
-          break
+          break;
       }
     }
+  }
+  public static void main(String[] args) {
+    doTheS doNum = new doTheS(50); 
   }
 }
