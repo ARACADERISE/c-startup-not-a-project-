@@ -10,5 +10,5 @@ abstract class abstractClasses {
   public static String name;
   
   // Sub-classes
-  public void aSubClass();
+  public void aSubClass(String n);
 }
