@@ -64,6 +64,7 @@ namespace myCode
       extended ex = new extended();
       
       readONLY read = new readONLY(Console.ReadLine());
+      read.sayHi();
     }
   }
 }
